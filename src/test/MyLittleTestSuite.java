@@ -7,7 +7,9 @@ import org.junit.runners.Suite;
         TestExercise1.class,
         TestExercise2.class,
         TestExercise3.class,
-        TestExercise4.class})
+        TestExercise4.class,
+        TestExercise5.class,
+        TestExercise6.class})
 
 public class MyLittleTestSuite {
 
